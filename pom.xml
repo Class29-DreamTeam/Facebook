@@ -108,7 +108,7 @@
 	</distributionManagement>
 	
 	<build>
-		<finalName>Facebook</finalName>
+		<finalName>Facebook-dev</finalName>
 		
 		<plugins>
 			<plugin>
