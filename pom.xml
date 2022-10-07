@@ -108,7 +108,7 @@
 	</distributionManagement>
 	
 	<build>
-		<finalName>Facebook</finalName>
+		<finalName>Facebook-stage</finalName>
 		
 		<plugins>
 			<plugin>
